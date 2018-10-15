@@ -7,749 +7,728 @@ module.exports = {
    */
   QUESTIONS_EN_GB: [
     {
-      'Reindeer have very thick coats, how many hairs per square inch do they have?': [
-        '13,000',
-        '1,200',
-        '5,000',
-        '700',
-        '1,000',
-        '120,000',
-      ],
+      "The members of the Rajya Sabha are elected by whom?": [
+        "elected members of the legislative assembly",
+        "elected members of the legislative council",
+        "Lok Sabha",
+        "the people"
+      ]
     },
     {
-      'The 1964 classic Rudolph The Red Nosed Reindeer was filmed in? ': [
-        'Japan',
-        'United States',
-        'Finland',
-        'Germany',
-        'Canada',
-        'Norway',
-        'France',
-      ],
+      "On whom is the power to decide an election petition vested? ": [
+        "High courts",
+        "Supreme Court",
+        "Parliament",
+        "Election Commission"
+      ]
     },
     {
-      'Santas reindeer are cared for by one of the Christmas elves, what is his name?': [
-        'Wunorse Openslae',
-        'Alabaster Snowball',
-        'Bushy Evergreen',
-        'Pepper Minstix',
-      ],
+      " The name of the Laccadive, Minicoy and Amindivi islands was changed to Lakshadweep by an Act of Parliament in which year?": [
+        "1973",
+        "1972",
+        "1971",
+        "1970"
+      ]
     },
     {
-      'If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be? ': [
-        'Girls',
-        'Boys',
-        'Girls and boys',
-        'No way to tell',
-      ],
+      "When can the Parliament of India can make use of the residuary powers?": [
+        "at all times",
+        "only during national emergency",
+        "only on advice of President",
+        "during national emergency and constitutional emergency"
+      ]
     },
     {
-      'What do Reindeer eat?': [
-        'Lichen',
-        'Grasses',
-        'Leaves',
-        'Berries',
-      ],
+      "What is the term of office of the members of Lok Sabha?": [
+        "5 years",
+        "4 years",
+        "10 years",
+        "6 years"
+      ]
     },
     {
-      'What of the following is not true?': [
-        'Caribou live on all continents',
-        'Both reindeer and Caribou are the same species',
-        'Caribou are bigger than reindeer',
-        'Reindeer live in Scandinavia and Russia',
-      ],
+      "What is the number of writs that can be prayed for and issued by the Supreme Court and/or a High Court?": [
+        "5",
+        "3",
+        "2",
+        "6"
+      ]
     },
     {
-      'In what year did Rudolph make his television debut?': [
-        '1964',
-        '1979',
-        '2000',
-        '1956',
-      ],
+      "What is the minimum age to qualify for election to the Lok Sabha?": [
+        "25 years",
+        "35 years",
+        "18 years",
+        "21 years"
+      ]
     },
     {
-      'Who was the voice of Rudolph in the 1964 classic?': [
-        'Billie Mae Richards',
-        'Burl Ives',
-        'Paul Soles',
-        'Lady Gaga',
-      ],
+      "To whom is the pension of a high court judge charged?": [
+        "Consolidated Fund of India",
+        "Contingency Fund of India",
+        "Consolidated Fund of the state where he last served",
+        "Consolidated Funds of the different states where he has served"
+      ]
     },
     {
-      'In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?': [
-        'Montgomery Ward',
-        'Sears',
-        'Macys',
-        'Kmart',
-      ],
+      "What is the minimum age of the voter in India?": [
+        "18 years",
+        "21 years",
+        "25 years",
+        "22 years"
+      ]
     },
     {
-      'Santa\'s reindeer named Donner was originally named what?': [
-        'Dunder',
-        'Donny',
-        'Dweedle',
-        'Dreamy',
-      ],
+      "By whom can the members of a State Commission be removed?": [
+        "president on a report by the Supreme Court",
+        "governor on a report by the Supreme Court",
+        "governor on a resolution passed by Parliament",
+        "president on a resolution passed by Parliament"
+      ]
     },
     {
-      'Who invented the story of Rudolph?': [
-        'Robert May',
-        'Johnny Marks',
-        'Santa',
-        'J K  Rowling',
-      ],
+      "How are the members of the Rajya Sabha elected?": [
+        "by the members of the state legislative assemblies",
+        "by the members of the state legislative councils",
+        "by the members of the state legislative councils and state legislative assemblies",
+        "directly by the people on the basis of universal adult franchise"
+      ]
     },
     {
-      'In what location will you not find reindeer?': [
-        'North Pole',
-        'Lapland',
-        'Korvatunturi mountain',
-        'Finland',
-      ],
+      "When does the president addresses both the Houses of Parliament assembled together?": [
+        "first session after each general election and the first session of each year",
+        "every session",
+        "during emergency session summoned for the purpose",
+        "any session"
+      ]
     },
     {
-      'What Makes Santa\'s Reindeer Fly?': [
-        'Magical Reindeer Dust',
-        'Fusion',
-        'Amanita muscaria',
-        'Elves',
-      ],
+      "The president can dissolve the Lok Sabha on whose advice?": [
+        "advice of the prime minister",
+        "advice of the chief justice of India",
+        "recommendation of Lok Sabha",
+        "recommendation of Rajya Sabha"
+      ]
     },
     {
-      'Including Rudolph, how many reindeer hooves are there?': [
-        '36',
-        '24',
-        '16',
-        '8',
-      ],
+      "What is the pre-requisite for the enforcement of directive principles of the state policy?": [
+        "adequate resources",
+        "active opposition",
+        "socialist government",
+        "effective government"
+      ]
     },
     {
-      'Santa only has one female reindeer, Which one is it?': [
-        'Vixen',
-        'Clarice',
-        'Cupid',
-        'Cupid',
-      ],
+      "The Objectives Resolution which laid down the main objectives to guide the deliberations of the Assembly was moved by whom?": [
+        "Jawaharlal Nehru",
+        "K.M. Munshi",
+        "Sardar Patel",
+        "B.R. Ambedkar"
+      ]
     },
     {
-      'In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?': [
-        'Sam',
-        'Frosty',
-        'Burl',
-        'Snowy',
-      ],
+      "The members of the Rajya Sabha are elected for what term?": [
+        "six years",
+        "four years",
+        "determined by the state legislative assembly of a state",
+        "seven years"
+      ]
     },
     {
-      'What was Rudolph\'s father\'s name?': [
-        'Donner',
-        'Dasher',
-        'Blixen',
-        'Comet',
-      ],
+      "When or how can the president dismiss a member of the council of ministers?": [
+        "on the recommendation of the prime minister",
+        "on his own",
+        "only under emergency conditions",
+        "with the consent of the speaker"
+      ]
     },
     {
-      'In the 1964 movie, What was the name of the coach of the Reindeer Games?': [
-        'Comet',
-        'Blixen',
-        'Donner',
-        'Dasher',
-      ],
+      "The name of a candidate for the office of president of India may be proposed by whom?": [
+        "any ten members of the Electoral College",
+        "any one member of the Electoral College",
+        "any five members of the Parliament",
+        "any five citizens of India"
+      ]
     },
     {
-      'In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?': [
-        'Fireball',
-        'Clarice',
-        'Jumper',
-        'Vixen',
-      ],
+      "Preamble enshrines the ideals of liberty, equality and fraternity - ideals inspired by what?": [
+        "French Revolution",
+        "Irish Revolution",
+        "US Constitution",
+        "Russian Revolution"
+      ]
     },
     {
-      'In the 1964 movie, How did Donner, Rudolph\'s father, try to hide Rudolph\'s nose?': [
-        'Black mud',
-        'Bag',
-        'Pillow case',
-        'Sock',
-      ],
+      "The minimum number of members that must be present to hold the meeting of the Lok Sabha is what?": [
+        "one-tenth of the total membership of the Houses",
+        "one-fourth of the total membership",
+        "50 percent strength of the Lok Sabha",
+        "at least 100 members"
+      ]
     },
     {
-      'In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?': [
-        'Dentist',
-        'Reindeer',
-        'Toy maker',
-        'Candlestick maker',
-      ],
+      "The power to prorogue the Lok Sabha rests with?": [
+        "the president",
+        "the speaker",
+        "the prime minister",
+        "the minister for parliamentary affairs"
+      ]
     },
     {
-      'In the 1964 movie,what was the Bumble\'s one weakness?': [
-        'Could not swim',
-        'Always hungry',
-        'Candy canes',
-        'Cross eyed',
-      ],
+      "What does the phrase bicameral legislature mean?": [
+        "a legislature consisting of a lower and an upper chamber",
+        "parliamentary system of government",
+        "a single assembly",
+        "an elected legislature"
+      ]
     },
     {
-      'In the 1964 movie, what is Yukon Cornelius really in search of?': [
-        'Peppermint',
-        'Gold',
-        'India',
-        'Polar Bears',
-      ],
+      "The position of the president which was undermined by the 42nd amendment was sub-sequently somewhat retrieved by which amendment?": [
+        "44th amendment",
+        "45th amendment",
+        "26th amendment",
+        "27th amendment"
+      ]
     },
     {
-      'In the 1964 movie, why is the train on the Island of Misfit Toys?': [
-        'Square wheels',
-        'No Engine',
-        'Paint does not match',
-        'It does not toot',
-      ],
+      "How are the members of Lok Sabha elected?": [
+        "directly elected by the people",
+        "indirectly elected",
+        "nominated",
+        "partly elected and partly nominated"
+      ]
     },
     {
-      'In the 1964 movie, what is the name of the Jack in the Box?': [
-        'Charlie',
-        'Sam',
-        'Billy',
-        'Jack',
-      ],
+      "The oath of office is administered to the Governor by whom?": [
+        "chief justice of high court",
+        "chief justice of India",
+        "speaker of legislative assembly",
+        "president"
+      ]
     },
     {
-      'In the 1964 movie, why did Santa Claus almost cancel Christmas?': [
-        'Storm',
-        'No snow',
-        'No toys',
-        'The Reindeer were sick',
-      ],
+      "The members of Parliament can express themselves in the House in which language?": [
+        "English, Hindi or mother tongue",
+        "English only",
+        "Hindi only",
+        "English or Hindi"
+      ]
     },
     {
-      'In the 1964 movie, what animal noise did the elf make to distract the Bumble?': [
-        'Oink',
-        'Growl',
-        'Bark',
-        'Meow',
-      ],
+      "Why does the position of the prime minister of India superior to that of his counter-part in Britain?": [
+        "his office enjoys constitutional basis",
+        "India has a written constitution",
+        "India has adopted the federal system",
+        "India is the biggest democracy"
+      ]
     },
     {
-      'In the 1964 movie, what is the name of the prospector?': [
-        'Yukon Cornelius',
-        'Slider Sam',
-        'Bumble',
-        'Jack',
-      ],
+      "With whose consultation does the president convene and prorogue all sessions of Parliament?": [
+        "the prime minister",
+        "the speaker",
+        "the vice president",
+        "the prime minister and the leader of the Opposition in Lok Sabha"
+      ]
     },
     {
-      'How far do reindeer travel when they migrate?': [
-        '3000 miles',
-        '700 miles',
-        '500 miles',
-        '0 miles',
-      ],
+      "What is the minimum age required to become a member of Rajya Sabha ?": [
+        "30 years",
+        "25 years",
+        "35 years",
+        "21 years"
+      ]
     },
     {
-      'How fast can a reindeer run?': [
-        '48 miles per hour',
-        '17 miles per hour',
-        '19 miles per hour',
-        '14 miles per hour',
-        '52 miles per hour',
-        '41 miles per hour',
-      ],
-    },
+      "For what action can the president be impeached?": [
+        "violating the constitution",
+        "disregarding Parliament",
+        "for not taking the prime minister's advice",
+        "he cannot be impeached"
+      ]
+    }
   ],
   QUESTIONS_EN_US: [
     {
-      'Reindeer have very thick coats, how many hairs per square inch do they have?': [
-        '13,000',
-        '1,200',
-        '5,000',
-        '700',
-        '1,000',
-        '120,000',
-      ],
+      "The members of the Rajya Sabha are elected by whom?": [
+        "elected members of the legislative assembly",
+        "elected members of the legislative council",
+        "Lok Sabha",
+        "the people"
+      ]
     },
     {
-      'The 1964 classic Rudolph The Red Nosed Reindeer was filmed in? ': [
-        'Japan',
-        'United States',
-        'Finland',
-        'Germany',
-        'Canada',
-        'Norway',
-        'France',
-      ],
+      "On whom is the power to decide an election petition vested? ": [
+        "High courts",
+        "Supreme Court",
+        "Parliament",
+        "Election Commission"
+      ]
     },
     {
-      'Santas reindeer are cared for by one of the Christmas elves, what is his name?': [
-        'Wunorse Openslae',
-        'Alabaster Snowball',
-        'Bushy Evergreen',
-        'Pepper Minstix',
-      ],
+      " The name of the Laccadive, Minicoy and Amindivi islands was changed to Lakshadweep by an Act of Parliament in which year?": [
+        "1973",
+        "1972",
+        "1971",
+        "1970"
+      ]
     },
     {
-      'If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be': [
-        'Girls',
-        'Boys',
-        'Girls and boys',
-        'No way to tell',
-      ],
+      "When can the Parliament of India can make use of the residuary powers?": [
+        "at all times",
+        "only during national emergency",
+        "only on advice of President",
+        "during national emergency and constitutional emergency"
+      ]
     },
     {
-      'What do Reindeer eat?': [
-        'Lichen',
-        'Grasses',
-        'Leaves',
-        'Berries',
-      ],
+      "What is the term of office of the members of Lok Sabha?": [
+        "5 years",
+        "4 years",
+        "10 years",
+        "6 years"
+      ]
     },
     {
-      'What of the following is not true?': [
-        'Caribou live on all continents',
-        'Both reindeer and Caribou are the same species',
-        'Caribou are bigger than reindeer',
-        'Reindeer live in Scandinavia and Russia',
-      ],
+      "What is the number of writs that can be prayed for and issued by the Supreme Court and/or a High Court?": [
+        "5",
+        "3",
+        "2",
+        "6"
+      ]
     },
     {
-      'In what year did Rudolph make his television debut?': [
-        '1964',
-        '1979',
-        '2000',
-        '1956',
-      ],
+      "What is the minimum age to qualify for election to the Lok Sabha?": [
+        "25 years",
+        "35 years",
+        "18 years",
+        "21 years"
+      ]
     },
     {
-      'Who was the voice of Rudolph in the 1964 classic?': [
-        'Billie Mae Richards',
-        'Burl Ives',
-        'Paul Soles',
-        'Lady Gaga',
-      ],
+      "To whom is the pension of a high court judge charged?": [
+        "Consolidated Fund of India",
+        "Contingency Fund of India",
+        "Consolidated Fund of the state where he last served",
+        "Consolidated Funds of the different states where he has served"
+      ]
     },
     {
-      'In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?': [
-        'Montgomery Ward',
-        'Sears',
-        'Macys',
-        'Kmart',
-      ],
+      "What is the minimum age of the voter in India?": [
+        "18 years",
+        "21 years",
+        "25 years",
+        "22 years"
+      ]
     },
     {
-      'Santa\'s reindeer named Donner was originally named what?': [
-        'Dunder',
-        'Donny',
-        'Dweedle',
-        'Dreamy',
-      ],
+      "By whom can the members of a State Commission be removed?": [
+        "president on a report by the Supreme Court",
+        "governor on a report by the Supreme Court",
+        "governor on a resolution passed by Parliament",
+        "president on a resolution passed by Parliament"
+      ]
     },
     {
-      'Who invented the story of Rudolph?': [
-        'Robert May',
-        'Johnny Marks',
-        'Santa',
-        'J K  Rowling',
-      ],
+      "How are the members of the Rajya Sabha elected?": [
+        "by the members of the state legislative assemblies",
+        "by the members of the state legislative councils",
+        "by the members of the state legislative councils and state legislative assemblies",
+        "directly by the people on the basis of universal adult franchise"
+      ]
     },
     {
-      'In what location will you not find reindeer?': [
-        'North Pole',
-        'Lapland',
-        'Korvatunturi mountain',
-        'Finland',
-      ],
+      "When does the president addresses both the Houses of Parliament assembled together?": [
+        "first session after each general election and the first session of each year",
+        "every session",
+        "during emergency session summoned for the purpose",
+        "any session"
+      ]
     },
     {
-      'What Makes Santa\'s Reindeer Fly?': [
-        'Magical Reindeer Dust',
-        'Fusion',
-        'Amanita muscaria',
-        'Elves',
-      ],
+      "The president can dissolve the Lok Sabha on whose advice?": [
+        "advice of the prime minister",
+        "advice of the chief justice of India",
+        "recommendation of Lok Sabha",
+        "recommendation of Rajya Sabha"
+      ]
     },
     {
-      'Including Rudolph, how many reindeer hooves are there?': [
-        '36',
-        '24',
-        '16',
-        '8',
-      ],
+      "What is the pre-requisite for the enforcement of directive principles of the state policy?": [
+        "adequate resources",
+        "active opposition",
+        "socialist government",
+        "effective government"
+      ]
     },
     {
-      'Santa only has one female reindeer, Which one is it?': [
-        'Vixen',
-        'Clarice',
-        'Cupid',
-        'Cupid',
-      ],
+      "The Objectives Resolution which laid down the main objectives to guide the deliberations of the Assembly was moved by whom?": [
+        "Jawaharlal Nehru",
+        "K.M. Munshi",
+        "Sardar Patel",
+        "B.R. Ambedkar"
+      ]
     },
     {
-      'In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?': [
-        'Sam',
-        'Frosty',
-        'Burl',
-        'Snowy',
-      ],
+      "The members of the Rajya Sabha are elected for what term?": [
+        "six years",
+        "four years",
+        "determined by the state legislative assembly of a state",
+        "seven years"
+      ]
     },
     {
-      'What was Rudolph\'s father\'s name?': [
-        'Donner',
-        'Dasher',
-        'Blixen',
-        'Comet',
-      ],
+      "When or how can the president dismiss a member of the council of ministers?": [
+        "on the recommendation of the prime minister",
+        "on his own",
+        "only under emergency conditions",
+        "with the consent of the speaker"
+      ]
     },
     {
-      'In the 1964 movie, What was the name of the coach of the Reindeer Games?': [
-        'Comet',
-        'Blixen',
-        'Donner',
-        'Dasher',
-      ],
+      "The name of a candidate for the office of president of India may be proposed by whom?": [
+        "any ten members of the Electoral College",
+        "any one member of the Electoral College",
+        "any five members of the Parliament",
+        "any five citizens of India"
+      ]
     },
     {
-      'In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?': [
-        'Fireball',
-        'Clarice',
-        'Jumper',
-        'Vixen',
-      ],
+      "Preamble enshrines the ideals of liberty, equality and fraternity - ideals inspired by what?": [
+        "French Revolution",
+        "Irish Revolution",
+        "US Constitution",
+        "Russian Revolution"
+      ]
     },
     {
-      'In the 1964 movie, How did Donner, Rudolph\'s father, try to hide Rudolph\'s nose?': [
-        'Black mud',
-        'Bag',
-        'Pillow case',
-        'Sock',
-      ],
+      "The minimum number of members that must be present to hold the meeting of the Lok Sabha is what?": [
+        "one-tenth of the total membership of the Houses",
+        "one-fourth of the total membership",
+        "50 percent strength of the Lok Sabha",
+        "at least 100 members"
+      ]
     },
     {
-      'In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?': [
-        'Dentist',
-        'Reindeer',
-        'Toy maker',
-        'Candlestick maker',
-      ],
+      "The power to prorogue the Lok Sabha rests with?": [
+        "the president",
+        "the speaker",
+        "the prime minister",
+        "the minister for parliamentary affairs"
+      ]
     },
     {
-      'In the 1964 movie,what was the Bumble\'s one weakness?': [
-        'Could not swim',
-        'Always hungry',
-        'Candy canes',
-        'Cross eyed',
-      ],
+      "What does the phrase bicameral legislature mean?": [
+        "a legislature consisting of a lower and an upper chamber",
+        "parliamentary system of government",
+        "a single assembly",
+        "an elected legislature"
+      ]
     },
     {
-      'In the 1964 movie, what is Yukon Cornelius really in search of?': [
-        'Peppermint',
-        'Gold',
-        'India',
-        'Polar Bears',
-      ],
+      "The position of the president which was undermined by the 42nd amendment was sub-sequently somewhat retrieved by which amendment?": [
+        "44th amendment",
+        "45th amendment",
+        "26th amendment",
+        "27th amendment"
+      ]
     },
     {
-      'In the 1964 movie, why is the train on the Island of Misfit Toys?': [
-        'Square wheels',
-        'No Engine',
-        'Paint does not match',
-        'It does not toot',
-      ],
+      "How are the members of Lok Sabha elected?": [
+        "directly elected by the people",
+        "indirectly elected",
+        "nominated",
+        "partly elected and partly nominated"
+      ]
     },
     {
-      'In the 1964 movie, what is the name of the Jack in the Box?': [
-        'Charlie',
-        'Sam',
-        'Billy',
-        'Jack',
-      ],
+      "The oath of office is administered to the Governor by whom?": [
+        "chief justice of high court",
+        "chief justice of India",
+        "speaker of legislative assembly",
+        "president"
+      ]
     },
     {
-      'In the 1964 movie, why did Santa Claus almost cancel Christmas?': [
-        'Storm',
-        'No snow',
-        'No toys',
-        'The Reindeer were sick',
-      ],
+      "The members of Parliament can express themselves in the House in which language?": [
+        "English, Hindi or mother tongue",
+        "English only",
+        "Hindi only",
+        "English or Hindi"
+      ]
     },
     {
-      'In the 1964 movie, what animal noise did the elf make to distract the Bumble?': [
-        'Oink',
-        'Growl',
-        'Bark',
-        'Meow',
-      ],
+      "Why does the position of the prime minister of India superior to that of his counter-part in Britain?": [
+        "his office enjoys constitutional basis",
+        "India has a written constitution",
+        "India has adopted the federal system",
+        "India is the biggest democracy"
+      ]
     },
     {
-      'In the 1964 movie, what is the name of the prospector?': [
-        'Yukon Cornelius',
-        'Slider Sam',
-        'Bumble',
-        'Jack',
-      ],
+      "With whose consultation does the president convene and prorogue all sessions of Parliament?": [
+        "the prime minister",
+        "the speaker",
+        "the vice president",
+        "the prime minister and the leader of the Opposition in Lok Sabha"
+      ]
     },
     {
-      'How far do reindeer travel when they migrate?': [
-        '3000 miles',
-        '700 miles',
-        '500 miles',
-        '0 miles',
-      ],
+      "What is the minimum age required to become a member of Rajya Sabha ?": [
+        "30 years",
+        "25 years",
+        "35 years",
+        "21 years"
+      ]
     },
     {
-      'How fast can a reindeer run?': [
-        '48 miles per hour',
-        '17 miles per hour',
-        '19 miles per hour',
-        '14 miles per hour',
-        '52 miles per hour',
-        '41 miles per hour',
-      ],
-    },
+      "For what action can the president be impeached?": [
+        "violating the constitution",
+        "disregarding Parliament",
+        "for not taking the prime minister's advice",
+        "he cannot be impeached"
+      ]
+    }
   ],
-  QUESTIONS_DE_DE: [
+  QUESTIONS_EN_IN: [
     {
-      'Rentiere haben ein sehr dickes Fell, Wie viele Haare pro Quadratzentimeter haben sie?': [
-        '13,000',
-        '1,200',
-        '5,000',
-        '700',
-        '1,000',
-        '120,000',
-      ],
+      "The members of the Rajya Sabha are elected by whom?": [
+        "elected members of the legislative assembly",
+        "elected members of the legislative council",
+        "Lok Sabha",
+        "the people"
+      ]
     },
     {
-      'Der Klassiker aus dem Jahr 1964, Rudolph mit der roten Nase, wurde gedreht in? ': [
-        'Japan',
-        'USA',
-        'Finnland',
-        'Deutschland',
-        'Kanada',
-        'Norwegen',
-        'Frankreich',
-      ],
+      "On whom is the power to decide an election petition vested? ": [
+        "High courts",
+        "Supreme Court",
+        "Parliament",
+        "Election Commission"
+      ]
     },
     {
-      'Um die Rentiere des Weihnachtsmanns kümmert sich eine der Weihnachtselfen, Wie heißt sie?': [
-        'Wunorse Openslae',
-        'Alabaster Snowball',
-        'Bushy Evergreen',
-        'Pfeffer Minstix',
-      ],
+      " The name of the Laccadive, Minicoy and Amindivi islands was changed to Lakshadweep by an Act of Parliament in which year?": [
+        "1973",
+        "1972",
+        "1971",
+        "1970"
+      ]
     },
     {
-      'Wenn alle Rentiere des Weihnachtsmanns Geweihe hätten, während sie seinen Weihnachtsschlitten ziehen, wären sie alle ': [
-        'Weiblich',
-        'Männlich',
-        'Weiblich und männlich',
-        'Kann man nicht sagen',
-      ],
+      "When can the Parliament of India can make use of the residuary powers?": [
+        "at all times",
+        "only during national emergency",
+        "only on advice of President",
+        "during national emergency and constitutional emergency"
+      ]
     },
     {
-      'Was essen Rentiere?': [
-        'Flechten',
-        'Gras',
-        'Blätter',
-        'Beeren',
-      ],
+      "What is the term of office of the members of Lok Sabha?": [
+        "5 years",
+        "4 years",
+        "10 years",
+        "6 years"
+      ]
     },
     {
-      'Welche Aussage ist nicht richtig?': [
-        'Karibus leben auf allen Kontinenten',
-        'Karibus und Rentiere gehören derselben Gattung an ',
-        'Karibus sind größer als Rentiere',
-        'Rentiere leben in Skandinavien und Russland',
-      ],
+      "What is the number of writs that can be prayed for and issued by the Supreme Court and/or a High Court?": [
+        "5",
+        "3",
+        "2",
+        "6"
+      ]
     },
     {
-      'In welchem Jahr kam Rudolph ins Fernsehen?': [
-        '1964',
-        '1979',
-        '2000',
-        '1956',
-      ],
+      "What is the minimum age to qualify for election to the Lok Sabha?": [
+        "25 years",
+        "35 years",
+        "18 years",
+        "21 years"
+      ]
     },
     {
-      'Wer war der Sprecher für Rudolph im klassischen Film aus dem Jahr 1964?': [
-        'Billie Mae Richards',
-        'Burl Ives',
-        'Paul Soles',
-        'Lady Gaga',
-      ],
+      "To whom is the pension of a high court judge charged?": [
+        "Consolidated Fund of India",
+        "Contingency Fund of India",
+        "Consolidated Fund of the state where he last served",
+        "Consolidated Funds of the different states where he has served"
+      ]
     },
     {
-      'Welche Handelskette verwendete 1939 die Geschichte von Rudolph mit der roten Nase?': [
-        'Montgomery Ward',
-        'Sears',
-        'Macys',
-        'Kmart',
-      ],
+      "What is the minimum age of the voter in India?": [
+        "18 years",
+        "21 years",
+        "25 years",
+        "22 years"
+      ]
     },
     {
-      'Wie hieß das Rentier des Weihnachtsmanns namens Donner ursprünglich?': [
-        'Dunder',
-        'Donny',
-        'Dweedle',
-        'Dreamy',
-      ],
+      "By whom can the members of a State Commission be removed?": [
+        "president on a report by the Supreme Court",
+        "governor on a report by the Supreme Court",
+        "governor on a resolution passed by Parliament",
+        "president on a resolution passed by Parliament"
+      ]
     },
     {
-      'Wer hat die Geschichte von Rudolph erfunden?': [
-        'Robert May',
-        'Johnny Marks',
-        'Santa',
-        'J K  Rowling',
-      ],
+      "How are the members of the Rajya Sabha elected?": [
+        "by the members of the state legislative assemblies",
+        "by the members of the state legislative councils",
+        "by the members of the state legislative councils and state legislative assemblies",
+        "directly by the people on the basis of universal adult franchise"
+      ]
     },
     {
-      'Wo findest du keine Rentiere?': [
-        'Nordpol',
-        'Lappland',
-        'Korvatunturi Berge',
-        'Finnland',
-      ],
+      "When does the president addresses both the Houses of Parliament assembled together?": [
+        "first session after each general election and the first session of each year",
+        "every session",
+        "during emergency session summoned for the purpose",
+        "any session"
+      ]
     },
     {
-      'Warum können die Rentiere des Weihnachtsmanns fliegen?': [
-        'Magischer Staub der Rentiere',
-        'Fusion',
-        'Amanita muscaria',
-        'Elfen',
-      ],
+      "The president can dissolve the Lok Sabha on whose advice?": [
+        "advice of the prime minister",
+        "advice of the chief justice of India",
+        "recommendation of Lok Sabha",
+        "recommendation of Rajya Sabha"
+      ]
     },
     {
-      'Wieviele Rentierhufe gibt es hier einschließlich Rudolph?': [
-        '36',
-        '24',
-        '16',
-        '8',
-      ],
+      "What is the pre-requisite for the enforcement of directive principles of the state policy?": [
+        "adequate resources",
+        "active opposition",
+        "socialist government",
+        "effective government"
+      ]
     },
     {
-      'Der Weihnachtsmann hat nur ein weibliches Rentier, Wie heißt es?': [
-        'Blitzen',
-        'Clarice',
-        'Cupid',
-        'Cupid',
-      ],
+      "The Objectives Resolution which laid down the main objectives to guide the deliberations of the Assembly was moved by whom?": [
+        "Jawaharlal Nehru",
+        "K.M. Munshi",
+        "Sardar Patel",
+        "B.R. Ambedkar"
+      ]
     },
     {
-      'Wie war der Name des erzählenden Schneemanns im klassischen Film Rudolph mit der roten Nase aus dem Jahr 1964?': [
-        'Sam',
-        'Frosty',
-        'Burl',
-        'Snowy',
-      ],
+      "The members of the Rajya Sabha are elected for what term?": [
+        "six years",
+        "four years",
+        "determined by the state legislative assembly of a state",
+        "seven years"
+      ]
     },
     {
-      'Wie hieß der Vater von Rudolph?': [
-        'Donner',
-        'Dasher',
-        'Blixen',
-        'Comet',
-      ],
+      "When or how can the president dismiss a member of the council of ministers?": [
+        "on the recommendation of the prime minister",
+        "on his own",
+        "only under emergency conditions",
+        "with the consent of the speaker"
+      ]
     },
     {
-      'Wie war der Name des Trainers der Rentierspiele im klassischen Film aus dem Jahr 1964?': [
-        'Comet',
-        'Blixen',
-        'Donner',
-        'Dasher',
-      ],
+      "The name of a candidate for the office of president of India may be proposed by whom?": [
+        "any ten members of the Electoral College",
+        "any one member of the Electoral College",
+        "any five members of the Parliament",
+        "any five citizens of India"
+      ]
     },
     {
-      'Wie war im klassichen Film aus 1964 der Name des Hirsches, mit dem sich Rudolph befreundete?': [
-        'Fireball',
-        'Clarice',
-        'Jumper',
-        'Vixen',
-      ],
+      "Preamble enshrines the ideals of liberty, equality and fraternity - ideals inspired by what?": [
+        "French Revolution",
+        "Irish Revolution",
+        "US Constitution",
+        "Russian Revolution"
+      ]
     },
     {
-      'Wie hat der Vater von Rudolph, Donner, im Film aus dem Jahr 1964 versucht, die Nase von Rudolph zu verbergen?': [
-        'Schwarzer Schlamm',
-        'Sack',
-        'Kissenbezug',
-        'Socke',
-      ],
+      "The minimum number of members that must be present to hold the meeting of the Lok Sabha is what?": [
+        "one-tenth of the total membership of the Houses",
+        "one-fourth of the total membership",
+        "50 percent strength of the Lok Sabha",
+        "at least 100 members"
+      ]
     },
     {
-      'Was möchte die Misfit Elfe im Film aus dem Jahr 1964 werden anstatt eine Elfe für den Weihnachtsmann?': [
-        'Zahnarzt',
-        'Rentier',
-        'Spielzeugmacher',
-        'Kerzenmacher',
-      ],
+      "The power to prorogue the Lok Sabha rests with?": [
+        "the president",
+        "the speaker",
+        "the prime minister",
+        "the minister for parliamentary affairs"
+      ]
     },
     {
-      'Was war die einzige Schwäche von Bumble im Film aus dem Jahr 1964?': [
-        'Konnte nicht schwimmen',
-        'War immer hungrig',
-        'Zuckerstangen',
-        'Schielte',
-      ],
+      "What does the phrase bicameral legislature mean?": [
+        "a legislature consisting of a lower and an upper chamber",
+        "parliamentary system of government",
+        "a single assembly",
+        "an elected legislature"
+      ]
     },
     {
-      'Was sucht Yukon Cornelius in Wirklichkeit im Film aus dem Jahr 1964?': [
-        'Pfefferminz',
-        'Gold',
-        'Indien',
-        'Polarbären',
-      ],
+      "The position of the president which was undermined by the 42nd amendment was sub-sequently somewhat retrieved by which amendment?": [
+        "44th amendment",
+        "45th amendment",
+        "26th amendment",
+        "27th amendment"
+      ]
     },
     {
-      'Warum befindet sich der Zug im Film aus dem Jahr 1964 auf der Insel des fehlerhaften Spielzeugs?': [
-        'Viereckige Räder',
-        'Keine Dampfmaschine',
-        'Farbe stimmt nicht',
-        'Pfeift nicht',
-      ],
+      "How are the members of Lok Sabha elected?": [
+        "directly elected by the people",
+        "indirectly elected",
+        "nominated",
+        "partly elected and partly nominated"
+      ]
     },
     {
-      'Wie lautet der Name des Schachtelmännchens im Film aus dem Jahr 1964?': [
-        'Charlie',
-        'Sam',
-        'Billy',
-        'Jack',
-      ],
+      "The oath of office is administered to the Governor by whom?": [
+        "chief justice of high court",
+        "chief justice of India",
+        "speaker of legislative assembly",
+        "president"
+      ]
     },
     {
-      'Warum hat der Weihnachtsmann im Film aus dem Jahr 1964 Weihnachten beinahe abgesagt?': [
-        'Sturm',
-        'Kein Schnee',
-        'Kein Spielzeug',
-        'Die Rentiere waren krank',
-      ],
+      "The members of Parliament can express themselves in the House in which language?": [
+        "English, Hindi or mother tongue",
+        "English only",
+        "Hindi only",
+        "English or Hindi"
+      ]
     },
     {
-      'Welches tierische Geräusch machte die Elfe im Film aus dem Jahr 1964, um den Bumble abzulenken?': [
-        'Oink',
-        'Knurr',
-        'Wauwau',
-        'Miau',
-      ],
+      "Why does the position of the prime minister of India superior to that of his counter-part in Britain?": [
+        "his office enjoys constitutional basis",
+        "India has a written constitution",
+        "India has adopted the federal system",
+        "India is the biggest democracy"
+      ]
     },
     {
-      'Wie lautet der Name des Goldsuchers im Film aus dem Jahr 1964?': [
-        'Yukon Cornelius',
-        'Slider Sam',
-        'Bumble',
-        'Jack',
-      ],
+      "With whose consultation does the president convene and prorogue all sessions of Parliament?": [
+        "the prime minister",
+        "the speaker",
+        "the vice president",
+        "the prime minister and the leader of the Opposition in Lok Sabha"
+      ]
     },
     {
-      'Wie weit ziehen Rentiere auf ihren Wanderungen?': [
-        '4800 km',
-        '1100 km',
-        '800 km',
-        '0 km',
-      ],
+      "What is the minimum age required to become a member of Rajya Sabha ?": [
+        "30 years",
+        "25 years",
+        "35 years",
+        "21 years"
+      ]
     },
     {
-      'Wie schnell läuft ein Rentier?': [
-        '77 km pro Stunde',
-        '27 km pro Stunde',
-        '30 km pro Stunde',
-        '22 km pro Stunde',
-        '83 km pro Stunde',
-        '65 km pro Stunde',
-      ],
-    },
-  ],
+      "For what action can the president be impeached?": [
+        "violating the constitution",
+        "disregarding Parliament",
+        "for not taking the prime minister's advice",
+        "he cannot be impeached"
+      ]
+    }
+  ]
 };
